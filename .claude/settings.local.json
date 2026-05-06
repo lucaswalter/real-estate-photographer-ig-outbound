@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/lucas/.claude/skills/ig-outbound)",
+      "Bash(mkdir -p /Users/lucas/.claude/projects/-Users-lucas-Desktop-projects-real-estate-photographer-ig-outbound/memory)",
+      "Bash(rm -rf /Users/lucas/.claude/skills/ig-outbound)",
+      "Bash(mkdir -p /Users/lucas/Desktop/projects/real-estate-photographer-ig-outbound/.claude/skills/ig-outbound)"
+    ]
+  }
+}
